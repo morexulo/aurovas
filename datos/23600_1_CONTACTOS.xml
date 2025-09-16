@@ -1,0 +1,3298 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<root>
+<Empresa>
+<cod_empresa>23600</cod_empresa>
+<cod_oficina>1</cod_oficina>
+<fecha_copia>29/08/2025</fecha_copia>
+<total_contactos>79</total_contactos>
+</Empresa>
+<Contactos>
+<Contacto>
+<cod_contacto>3</cod_contacto>
+<fec_alta>29/05/2018</fec_alta>
+<fec_modificacion>29/05/2018</fec_modificacion>
+<tipo_contacto><![CDATA[Tasadoras]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Javier]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[arquitectosj2@gmail.com]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[651099725]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Es el tasador de Tinsa para la casa de Maria Sabio de calle Popa 4]]></observaciones>
+<medio_captacion><![CDATA[Cliente Antiguo]]></medio_captacion>
+<captador><![CDATA[Patricia Gago Caballero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>4</cod_contacto>
+<fec_alta>05/12/2018</fec_alta>
+<fec_modificacion>05/12/2018</fec_modificacion>
+<tipo_contacto><![CDATA[Alquila Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Victoria]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[616849648]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[Calle Cielo]]></direccion>
+<cod_postal><![CDATA[11500]]></cod_postal>
+<observaciones><![CDATA[Tiene una casa recién restaurada en el centro de El Puerto, nos la va a dar en cuanto esté terminada.]]></observaciones>
+<medio_captacion><![CDATA[Captador]]></medio_captacion>
+<captador><![CDATA[Patricia Gago Caballero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[36.6025754,-6.22366020000004]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>5</cod_contacto>
+<fec_alta>25/09/2019</fec_alta>
+<fec_modificacion>19/03/2024</fec_modificacion>
+<tipo_contacto><![CDATA[Publicidad]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Angeles]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[angelesalvarezluna@gmail.com]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[680233908]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Idealista]]></observaciones>
+<medio_captacion><![CDATA[Oficina]]></medio_captacion>
+<captador><![CDATA[Patricia Gago Caballero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>8</cod_contacto>
+<fec_alta>11/05/2020</fec_alta>
+<fec_modificacion>11/05/2020</fec_modificacion>
+<tipo_contacto><![CDATA[Otros Contactos]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Manolo]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[605683664]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[637240799]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Sevilla]]></nomProvincia>
+<nomPoblacion><![CDATA[Sevilla]]></nomPoblacion>
+<nomZona><![CDATA[Nervión]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Otros]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[36.6010706,-6.255031400000007]]></coordenadas>
+
+<otros_telefonos>
+
+<otro_telefono>
+
+<telefono><![CDATA[605683664]]></telefono>
+
+<movil><![CDATA[637240799]]></movil>
+
+<fax><![CDATA[]]></fax>
+
+<contacto><![CDATA[Manolo Gonzalez]]></contacto>
+
+<observaciones><![CDATA[]]></observaciones>
+
+<email><![CDATA[]]></email>
+
+</otro_telefono>
+
+</otros_telefonos>
+
+</Contacto>
+<Contacto>
+<cod_contacto>208</cod_contacto>
+<fec_alta>07/03/2019</fec_alta>
+<fec_modificacion>09/05/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Alquila Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Margarita]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[609187114]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[AL FINAL ESTE PISO ESTARÁ DISPONIBLE EL 1 DE AGOSTO!! LLAMAR EL 1 DE JUNIO // A 09/05/19 ME DICE QUE YA ESTÁ ALQUILADO PARA AGOSTO
+Alquila un piso en la Calle Villanueva 27, 5º
+Exterior, 164m2, 3dormitorios con su baño en suite
+1d de servicio con baño
+Completamente reformado
+6300? incluye calefacción, agua caliente y agua normal (canal Isabel II)
+NO SABE SI PONERLO EN ALQUILER AHORA (05/03/2019) O A PARTIR DEL 1 DE AGOSTO.
+PUEDO IR A VERLO LA SEMANA DEL 11 AL 15 DE MARZO]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>209</cod_contacto>
+<fec_alta>05/03/2019</fec_alta>
+<fec_modificacion>07/03/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Alquila Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Ignacio]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[608512179]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Alquila piso en C/Castelló 11
+100m2 útiles + terraza
+3D+2baños
+luminoso
+Agua c. y calefc. central
+a/a
+DICE QUE DE MOMENTO LO VA A INTENTAR EL SOLO, QUE ESTÁ JUBILADO Y TIENE TIEMPO, QUE LE LLAME EN 15 DÍAS]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>210</cod_contacto>
+<fec_alta>08/03/2019</fec_alta>
+<fec_modificacion>11/03/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[José]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[607757868]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Chamberí - Gaztambide]]></nomZona>
+<direccion><![CDATA[Calle Princesa]]></direccion>
+<cod_postal><![CDATA[28008]]></cod_postal>
+<observaciones><![CDATA[Llamada realizada el 22 Feb. No quiere agencias pero puedo volver a llamar.
+Publicado en Id. Anuncio: 82950771
+No quiere colaborar pero dice que reconocería cliente. No da permiso para publicar ni visitar a no ser que tengamos el cliente.]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>211</cod_contacto>
+<fec_alta>08/03/2019</fec_alta>
+<fec_modificacion>08/03/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Juan]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[688427078]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Chamberí - Arapiles]]></nomZona>
+<direccion><![CDATA[Calle Vallehermoso]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Puedo volver a llamar aunque no quiere agencia.
+6ª planta, interior con ascensor. 61 m2 construidos según catastro. 3 dorm, 1 baño. 
+295.000 e.
+Necesita reformas. Calefacción central con contadores individuales.]]></observaciones>
+<medio_captacion><![CDATA[Oficina]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>212</cod_contacto>
+<fec_alta>08/03/2019</fec_alta>
+<fec_modificacion>08/03/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Lucía]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[618804283]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Chamberí - Gaztambide]]></nomZona>
+<direccion><![CDATA[Calle Francisco Ricci]]></direccion>
+<cod_postal><![CDATA[28015]]></cod_postal>
+<observaciones><![CDATA[No quiere agencia pero puedo volver a llamar.
+Lo tengo en faboritos de Id. Anuncio: 84384320.
+El que me atendió era un hombre pero en Id. el contacto se identifica como Lucía.]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>213</cod_contacto>
+<fec_alta>08/03/2019</fec_alta>
+<fec_modificacion>08/03/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[No lo sé]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[6656629949]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Chamberí - Gaztambide]]></nomZona>
+<direccion><![CDATA[Calle Hilarión Eslava]]></direccion>
+<cod_postal><![CDATA[28015]]></cod_postal>
+<observaciones><![CDATA[Solo tienen cartel en calle. No quieren agencia pero quedé en volver a llamar. No llegó a darme los datos del inmueble.
+Es un apartamento con plaza de garaje.
+Aparece también otro tlf. en el cartel: 617440970 (después de las 15:00)]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>214</cod_contacto>
+<fec_alta>11/03/2019</fec_alta>
+<fec_modificacion>22/03/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Lucía]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[610338207]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[Calle Caracas]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Anuncio en favoritos de Id. Anuncio: 84611908
+No quiere agencias. Volver a llamar mas adelante a ver si cambian de idea
+2ª llamada Afirma no estar dispuesta a pagar honorarios a ninguna agencia aunque le llevemos un cliente.]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>215</cod_contacto>
+<fec_alta>13/03/2019</fec_alta>
+<fec_modificacion>14/03/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[PROPIETARIO]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[639556838]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Salamanca - Recoletos]]></nomZona>
+<direccion><![CDATA[Calle Claudio Coello]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Vende piso reformado muy luminoso, en Claudio Coello 51-2, 120m2, cocina reformada de alta gama, salón, 2d+2baños en suite con sendos vestidores en cada dormitorio, aseo de cortesía. 
+1.090.000?]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>216</cod_contacto>
+<fec_alta>15/03/2019</fec_alta>
+<fec_modificacion>15/12/2021</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Nuria]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[625246593]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Vende piso en la calle Marquï¿½s de Zafra 26 (anuncio idealista) / fuente del Berro
+549.000?
+DE MOMENTO VA A INTENTAR VENDERLO SOLA, LLAMAR Mï¿½S ADELANTE. LLAMADA DE NUEVO (09/05/19) PERO SIGUE SIN COLABORAR. QUE LA LLAME EN DOS MESES Mï¿½NIMO
+160 mï¿½ construidos
+4 habitaciones
+3 baï¿½os
+Terraza
+Armarios empotrados
+Trastero
+Orientaciï¿½n norte, sur
+Certificaciï¿½n energï¿½tica: no indicado
+Planta 5ï¿½ exterior
+Con ascensor]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>217</cod_contacto>
+<fec_alta>18/03/2019</fec_alta>
+<fec_modificacion>08/04/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Soledad]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[686260996]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Chamberí - Gaztambide]]></nomZona>
+<direccion><![CDATA[Calle Joaquín María López]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[No quiere agencias pero puedo volver a llamar mas adelante.
+Son varios hermanos y no quieren agencias.]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>218</cod_contacto>
+<fec_alta>21/03/2019</fec_alta>
+<fec_modificacion>21/03/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Nose]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[639860953]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[Calle Menéndez Pidal]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[vende piso en Menéndez Pidal 3, 125 m2.
+No quiere agencias pero volver a llamar por si cambia de idea.]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>219</cod_contacto>
+<fec_alta>25/03/2019</fec_alta>
+<fec_modificacion>25/03/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Ksenia]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[637037583]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Propietaria ático interior en Jorge Juan 42. 63m2 2d+1b // a.ac // calefc.gas natural // C.E. A // 490.000? 
+De momento NO rotundo a colaborar con ninguna agencia. Que la llamemos en 2 meses si vemos que no lo ha vendido.]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>220</cod_contacto>
+<fec_alta>01/04/2019</fec_alta>
+<fec_modificacion>01/04/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Aline]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[680320222]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Su teléfono figura en el cartel del Piso en Venta en Claudio Coello número 8 (208m2).
+No quiere agencias, y dice que de momento no tienen prisa en vender]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>221</cod_contacto>
+<fec_alta>01/04/2019</fec_alta>
+<fec_modificacion>01/04/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Propietaria]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[652484790]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[No quiere saber nada de agencias de momento]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>222</cod_contacto>
+<fec_alta>01/04/2019</fec_alta>
+<fec_modificacion>01/04/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Alquila Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Isabel]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[602576052]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Alquila piso de 140m2 reformado, con garaje en Lagasca 36 (frente a la oficina), dice que lo tiene prácticamente alquilado, pero que si sigo viendo el cartel la vuelva a llamar]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>223</cod_contacto>
+<fec_alta>08/04/2019</fec_alta>
+<fec_modificacion>08/04/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Apolonia]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[653987439]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Vende un piso en la calle Claudio Coello 43 (cartel particular). Me ha dicho que tienen una oferta sobre la casa, y esta semana sabrán si sale adelante, que le llame en 7 días o así (lunes santo!!) para saber en qué fase están]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>224</cod_contacto>
+<fec_alta>23/04/2019</fec_alta>
+<fec_modificacion>23/04/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Juan]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[629118369]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Chamberí - Gaztambide]]></nomZona>
+<direccion><![CDATA[Calle Antonio Palomino]]></direccion>
+<cod_postal><![CDATA[28015]]></cod_postal>
+<observaciones><![CDATA[Vende piso anunciado en Id. 
+No quiere agencias pero reconocería cliente puntual.]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>225</cod_contacto>
+<fec_alta>23/04/2019</fec_alta>
+<fec_modificacion>23/04/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Eloy]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[679463792]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[NO AGENCIAS. QUE LE VUELVA A LLAMAR EN 3 SEMANAS
+
+Vende piso en  María de Molina 66 
+450.000?
+
+Características básicas
+75 m² construidos
+2 habitaciones
+1 baño
+Balcón
+Plaza de garaje incluida en el precio
+Segunda mano/para reformar
+Armarios empotrados
+Calefacción central
+Certificación energética: no indicado
+Edificio
+Planta 2ª interior
+Con ascensor]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>226</cod_contacto>
+<fec_alta>23/04/2019</fec_alta>
+<fec_modificacion>23/04/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Pedro]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[pedro.regalado@mpsa.com]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[669492198]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Vende piso en Centro-Justicia. He hablado con el, decía q ya lo tienen varias inmobiliarias, pero que le mandase un mail con los datos y la web de aurovas, para ver si también nos lo da. Le he mandado el mail (23-04-19) y estoy a la espera
+Precio: 797.000?
+
+Características básicas
+176 m² construidos
+2 habitaciones
+1 baño
+Balcón
+Segunda mano/buen estado
+Armarios empotrados
+Certificación energética: en trámite
+Edificio
+Planta 2ª exterior
+Sin ascensor]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>227</cod_contacto>
+<fec_alta>24/04/2019</fec_alta>
+<fec_modificacion>24/04/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Intermediarios]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Ana]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[609264601]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Intermediaria venta ático Modesto Lafuente 78.
+Podría negociar.
+Llamar mas adelante por si no ha cerrado acuerdo.]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>228</cod_contacto>
+<fec_alta>25/04/2019</fec_alta>
+<fec_modificacion>25/04/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Ignacio]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[639822175]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Vende piso en calle Miguel Ángel 17-19 (cartel calle)
+248 m2
+1.795.000?
+No reformado
+Dice que ya está colaborando con varias agencias. Que le llame como mínimo en un mes para ver si quiere ampliar las colaboraciones.]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>229</cod_contacto>
+<fec_alta>25/04/2019</fec_alta>
+<fec_modificacion>25/04/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Cristina]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Vende piso en Zurbano 52, 1º (esq.Rafael Calvo)
+DE MOMENTO NO QUIERE MÁS AGENCIAS (en idealista lo tiene una agencia) dice que le llaman 15 al día y está harta. QUE LE LLAME EN 2 MESES
+Esto pone en Idealista:
+
+Contacto directo con la propiedad. 
+Piso de 170 m2.
+Además de los 170 m2 el inmueble cuenta con una superficie de 30 m2 en planta sótano con ventana a patio de la casa.
+- Primera planta de edificio representativo con fachada clásica. 
+- Cuenta con 5 balcones exteriores a la calle.
+- Orientación sur.
+- Hall de entrada.
+- Salón.
+- Comedor independiente.
+- Dormitorio principal en suite con zona de armarios y cuarto de baño.
+- Dos dormitorios con armarios empotrados que comparten un baño.
+- Cocina.
+- Aire acondicionado por splits.
+- Calefacción central.
+- Suelos de parquet.
+- Techos altos con molduras.
+- Carpinterías originales.
+- Pintura lisa.
+- Conserje que vive en el edificio."]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>230</cod_contacto>
+<fec_alta>25/04/2019</fec_alta>
+<fec_modificacion>25/04/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Colaborador]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Gema]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[gemaurbina@hotmail.com]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[633917032]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[freelance que trabaja por su cuenta. colabora con agencias. había colgado un cartel "fantasma" en la calle zurbano para captar llamadas]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>231</cod_contacto>
+<fec_alta>25/04/2019</fec_alta>
+<fec_modificacion>25/04/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Isabel]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[650683332]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Chamberí - Trafalgar]]></nomZona>
+<direccion><![CDATA[Calle Santa Engracia]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Reconoce cliente pero no facilita fotos ni deja publicar.
+Guardado en favoritos.]]></observaciones>
+<medio_captacion><![CDATA[Portal - Otros]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>232</cod_contacto>
+<fec_alta>26/04/2019</fec_alta>
+<fec_modificacion>26/04/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Alquila Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Pilar]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[639794536]]></telefono2>
+<telf_movil><![CDATA[609167401]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Tenía cartel en Calle Pardiñas 15, de apmto. que se alquila amueblado (está en idealista a 1200? mes). 
+La he llamado. Dice que tiene como 4 pisos que se le van a quedar vacíos pronto y disponibles para alquiler, hemos quedado en hablar el lunes para quedar y conocernos.]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>234</cod_contacto>
+<fec_alta>08/05/2019</fec_alta>
+<fec_modificacion>08/05/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Alquila Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[María José]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[683652510]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Tiene un anuncio en Idealista de un piso en alquiler de 2d y 1 bñ en Recoletos 6 por 1600?
+Dice que ese inmueble lo anuncian ellos directamente , pero que tienen otros inmuebles con otras agencias. Va a consultar si podemos colaborar y ofrecer sus pisos (a 8/05/19)]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>235</cod_contacto>
+<fec_alta>09/05/2019</fec_alta>
+<fec_modificacion>09/05/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Fátima]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[661915852]]></telefono2>
+<telf_movil><![CDATA[653257023]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Vende ático en Núñez de Balboa 42. Dice que lo acaba de anunciar (9/5/19) y que le llame en dos meses, porque de momento lo van a intentar solos.
+
+Características:
+
+243 m² construidos
+5 habitaciones
+3 baños
+Terraza
+Segunda mano/para reformar
+Trastero
+Orientación este, oeste
+Certificación energética: no indicado
+
+Edificio:
+Planta 5ª exterior
+Con ascensor]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>236</cod_contacto>
+<fec_alta>16/05/2019</fec_alta>
+<fec_modificacion>16/05/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Ramón]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[667791001]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Madrid]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Vende piso en C/ del Pez, 4 (Malasaña). 4º ext; sin ascensor;  60 m2;  1d; 1 b; 445.000 ?. (anterior: 460.000?).
+Otro tlf que aparece en el anuncio de Id. 637331736
+Dice tener exclusiva con agencia hasta Agosto por lo que su anuncio de Id. tendría que quitarlo. Podemos volver a llamar en Septiembre. Muy amable]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>237</cod_contacto>
+<fec_alta>21/05/2019</fec_alta>
+<fec_modificacion>21/05/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Angel]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[620288273]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Prop de un piso en venta en padilla 68. No colabora con agencias. llamar más adelante]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>238</cod_contacto>
+<fec_alta>22/05/2019</fec_alta>
+<fec_modificacion>22/05/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Alquila Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Vicente]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[690143857]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Alquila piso en Fernández de la Hoz 45. publicado en Idealista.
+Volver a llamar para posible colaboración si sigue publicado.]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>239</cod_contacto>
+<fec_alta>24/05/2019</fec_alta>
+<fec_modificacion>24/05/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Alquila Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Jesús]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[649666405]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Salamanca - Recoletos]]></nomZona>
+<direccion><![CDATA[Calle Hermosilla]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Alquiler  duplex, 2 dormitorios
+Anuncio de Id. 35927838]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>240</cod_contacto>
+<fec_alta>27/05/2019</fec_alta>
+<fec_modificacion>27/05/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Alquila Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Ernesto]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[699910610]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Alquila piso en calle Hermosilla 41. Llamado el 27/05/2019, que le llame a partir de las 18.30h]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>241</cod_contacto>
+<fec_alta>29/05/2019</fec_alta>
+<fec_modificacion>29/05/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[María]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[690662406]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[Calle Maestro Ángel Llorca]]></direccion>
+<cod_postal><![CDATA[28003]]></cod_postal>
+<observaciones><![CDATA[Mas adelante, puedo volver a llamar si todavía sigue anunciado para saber si entonces quieren colaborar con agencias. Por ahora no. Es muy amable.
+Idealista: Anuncio: 85655085]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>242</cod_contacto>
+<fec_alta>29/05/2019</fec_alta>
+<fec_modificacion>29/05/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Justina]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[686066939]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Propietaria piso en Lagasca (cartel en el balcón) 200 m2, 4d, 3b, asea, piso construido en 2004. 2 plazas garaje. Trastero. 
+2.550.000 ?
+Ya lo tienen dos agencias
+
+Para verlo hablar con su hija Cristina 620389372]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+<otros_telefonos>
+
+<otro_telefono>
+
+<telefono><![CDATA[]]></telefono>
+
+<movil><![CDATA[620389372]]></movil>
+
+<fax><![CDATA[]]></fax>
+
+<contacto><![CDATA[Cristina (hija)]]></contacto>
+
+<observaciones><![CDATA[]]></observaciones>
+
+<email><![CDATA[]]></email>
+
+</otro_telefono>
+
+</otros_telefonos>
+
+</Contacto>
+<Contacto>
+<cod_contacto>243</cod_contacto>
+<fec_alta>30/05/2019</fec_alta>
+<fec_modificacion>30/05/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Alquila Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Paqui]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[652935498]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[Calle Andrés Mellado]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Alquila piso de unos 90 m2, 3 dorm, 1 b. 1500 ?, a familias les cobraria 1300? pero con aval bancario
+Alquilado hasta 30 Junio. 
+
+]]></observaciones>
+<medio_captacion><![CDATA[Oficina]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>244</cod_contacto>
+<fec_alta>11/06/2019</fec_alta>
+<fec_modificacion>11/06/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Ana]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[626922339]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Cartel calle Lagasca 33, ático en venta de 75m2. Está dudando sin vender o alquilar, lo ha tenido alquilado 10 años. Lo decide a finales de este mes (junio 19). Me ha dicho que si quiero pasarme a verlo el jueves 13 de 11 a 12 ella tiene visitas.
+]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>245</cod_contacto>
+<fec_alta>13/06/2019</fec_alta>
+<fec_modificacion>09/07/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Bárbara]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[622237058]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Chamartín - Hispanoamérica]]></nomZona>
+<direccion><![CDATA[Calle Príncipe de Vergara]]></direccion>
+<cod_postal><![CDATA[28016]]></cod_postal>
+<observaciones><![CDATA[Acaban de subir el anuncio, llamar la semana que viene por si quisieran colaborar.
+Anuncio en Id. fav. Ha bajado de 850.000 a 800.000 ?.
+Llamar de nuevo a finales de Agosto.]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>246</cod_contacto>
+<fec_alta>17/06/2019</fec_alta>
+<fec_modificacion>17/06/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Colaborador]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[José Luis]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[668891971]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[José Luis de la inmobiliaria "Vantare"
+Cartel de se vende en Ayala 23
+Tienen la Exclusiva
+De momento no colaboran, van a tantear el.mercado
+No lo tienen en idealista
+110m2 de vivienda y un trastero
+10m2 de terraza a sur
+5to piso (ático)
+2d, 2b, cocina y salón 
+Ascensor
+1.260.000?
+Última reforma de hace 8 años aprox]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>247</cod_contacto>
+<fec_alta>25/06/2019</fec_alta>
+<fec_modificacion>25/06/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Ana]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[690293137]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[Calle Juan de Mena]]></direccion>
+<cod_postal><![CDATA[28014]]></cod_postal>
+<observaciones><![CDATA[Llamada hecha  el 26-Jun
+Puede que accedan a trabajar con agencias mas adelante.]]></observaciones>
+<medio_captacion><![CDATA[Oficina]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[40.41652659939546,-3.6912349768202217]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>248</cod_contacto>
+<fec_alta>26/06/2019</fec_alta>
+<fec_modificacion>26/06/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Alquila Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Ángeles]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[670231931]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Madrid]]></nomZona>
+<direccion><![CDATA[Calle Núñez de Balboa]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Ángeles trabaja para los propietarios, me va a mandar las fotos por email.]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>249</cod_contacto>
+<fec_alta>01/07/2019</fec_alta>
+<fec_modificacion>15/07/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Nuria]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[683432756]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Madrid]]></nomZona>
+<direccion><![CDATA[Calle Fernandez de la Hoz]]></direccion>
+<cod_postal><![CDATA[280010]]></cod_postal>
+<observaciones><![CDATA[Anuncio en Id. 84808584]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>250</cod_contacto>
+<fec_alta>01/07/2019</fec_alta>
+<fec_modificacion>01/07/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Alquila Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Nosé]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[610520931]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Madrid]]></nomZona>
+<direccion><![CDATA[Calle Velázquez]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>251</cod_contacto>
+<fec_alta>02/07/2019</fec_alta>
+<fec_modificacion>15/07/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Alquila Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Ignacio]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[656811438]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Tetuán]]></nomZona>
+<direccion><![CDATA[Calle Orense]]></direccion>
+<cod_postal><![CDATA[28020]]></cod_postal>
+<observaciones><![CDATA[Anuncio de Id. 28377595 guardado en fav.
+Alquiler ático.]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>252</cod_contacto>
+<fec_alta>08/07/2019</fec_alta>
+<fec_modificacion>23/07/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Berta]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[606020301]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Piso venta Almagro. Id. Fav. Baja de 1.090.000 a 1.020.000 ?.
+Llamada hecha 7-M. Parece estar vendido, confirmar mas adelante.
+Llamada hecha 13-Jun. No contesta.
+Llamada el 8-Jul. Reconoce cliente pero no quiere mandarme fotos porque dice que están para firmar arras. Llamar en 15 dias para saber si se ha cerrado. Duda si dejarnos publicar, hay varias agencias.
+Llamada el 11-Jul: Su marido está fuera y la venta se ha parado. Llamar a finales de la semana que viene.
+Llamada hecha el 23-Jul. Me da largas hasta la semana que viene. No está muy por la labor pero tampoco se niega. Dice que vuelven a visitarlo clientes interesados. Le molesta mucho que vayan agencias con clientes no seleccionados.]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>253</cod_contacto>
+<fec_alta>09/07/2019</fec_alta>
+<fec_modificacion>09/07/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Elena]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[683579151]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[Calle]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Vende oficina en C/ Valenzuela 6 Sótano exterior de 121 m2 segregable.
+No lo tiene publicado. 
+Ha quedado en llamarme la semana que viene.]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>254</cod_contacto>
+<fec_alta>09/07/2019</fec_alta>
+<fec_modificacion>09/07/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Charo]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[658856556]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Chamartín - El Viso]]></nomZona>
+<direccion><![CDATA[Calle Gabriel Lobo]]></direccion>
+<cod_postal><![CDATA[28002]]></cod_postal>
+<observaciones><![CDATA[Vende piso en C/ Gabriel Lobo 7. 
+Reconoce cliente.]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[40.442503264232116,-3.6794649445522207]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>255</cod_contacto>
+<fec_alta>09/07/2019</fec_alta>
+<fec_modificacion>09/09/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Amparo]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[666373596]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Chamartín - Ciudad Jardín]]></nomZona>
+<direccion><![CDATA[Avenida Alfonso XIII]]></direccion>
+<cod_postal><![CDATA[28002]]></cod_postal>
+<observaciones><![CDATA[Chalet adosado,  Alfonso XIII reformado. 190 m2. Anunciado en Id. Fav.
+Llamada hecha el 9-Jul. Volver a llamar en Sept.
+Llamada el 9- sept.  No contesta, Volver a llamar mañana]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>257</cod_contacto>
+<fec_alta>29/08/2019</fec_alta>
+<fec_modificacion>29/08/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Antonio]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[660492675]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Chamartín - Prosperidad]]></nomZona>
+<direccion><![CDATA[Calle Clara del Rey]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Es el ático cerca de metro Alfonso XIII. Siempre rechaza colaboración porque lo lleva su hijo.]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>258</cod_contacto>
+<fec_alta>29/08/2019</fec_alta>
+<fec_modificacion>29/08/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Alquila Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Marta]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[687716802]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Chamartín - El Viso]]></nomZona>
+<direccion><![CDATA[Calle María de Molina]]></direccion>
+<cod_postal><![CDATA[28006]]></cod_postal>
+<observaciones><![CDATA[Alquilan oficina de 150 m2. No ha querido darme información porque no quiere trabajar con mas agencias pero a la vuelta de sus vacaciones  si no se ha alquilado puede que sí admitan colaboración.
+Agendada llamada  para finales de sept.]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>286</cod_contacto>
+<fec_alta>17/09/2019</fec_alta>
+<fec_modificacion>17/09/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Manuel]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[602861467]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Salamanca - Goya]]></nomZona>
+<direccion><![CDATA[Calle principe de vergara]]></direccion>
+<cod_postal><![CDATA[28001]]></cod_postal>
+<observaciones><![CDATA[95 m² construidos
+2 habitaciones
+1 baño
+Balcón
+Segunda mano/buen estado
+Armarios empotrados
+Orientación norte
+Calefacción individual: Gas natural
+Certificación energética: en trámite
+Edificio
+Planta 2ª exterior
+Con ascensor
+Equipamiento
+Aire acondicionado
+Jardín]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 2</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 95</metros_utiles>
+<enlace_web><![CDATA[https://www.idealista.com/inmueble/84718289/?xts=582065&xtor=EPR-200-%5bdaily_private_prospecting_alerts_20190917%5d-20190917-%5binmueble_28_840.000%5d-%5b%5d-20190917001929]]></enlace_web>
+<coordenadas><![CDATA[40.423993, -3.680215]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>303</cod_contacto>
+<fec_alta>11/09/2019</fec_alta>
+<fec_modificacion>26/09/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Francisco]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[670400099]]></telefono2>
+<telf_movil><![CDATA[610009009]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Chamartín]]></nomZona>
+<direccion><![CDATA[Avenida Cocha Espina]]></direccion>
+<cod_postal><![CDATA[28036]]></cod_postal>
+<observaciones><![CDATA[REF.:301494167	OFERTA
+CHAMARTÍN AVDA CONCHA ESPINA, 8 Directamente propiedad piso en zona del viso en avenida concha espina superficie útil de 265 m2. superficie construida 314 m2 Única vivienda en la planta 11, con orientación (norte/sur/este y oeste). muy bien conservado con impresionantes vistas a todo madrid metro y 12 líneas de autobuses 4 dormitorios y 3 cuartos de baño completos salón con chimenea, 2 ambientes y terraza cubierta de 45 m2 comedor independiente de 24 m2, hall de entrada cocina de 21 m2 con espectacular mirador cerrado y cubierto de 10 m2 a todo madrid calefacción central, bomba de calor (frío/calor) central y agua caliente central dormitorios de 30 m2, 23 m2, 20 m2 y del servicio de 8 m2 toda la casa excepto la cocina y cuartos de baño tienen parquet extraordinario y muy bien conservado de tablillas. cuartos de baño de mármol y cocina de azulejo 2 ascensores, portero automático y portero físico de 08:00 a 21:00 horas dispone de un trastero y en la planta 15ª piscina comunitaria. Plaza de garaje Incluida en Parking de Residentes.., 314 m2, 4 dormitorios, 3 baños. 11ª Planta. . CE: G                                                                            CONSTRUCTOR, NO QUIERE
+
+Madrid MADRID Publicado:30-08-2019 06:18:31. 1.685.000? (5.366 ?/m2) Francisco fernandez tef.:670400099 / 610009009]]></observaciones>
+<medio_captacion><![CDATA[Portal - MilAnuncios.com]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[Piso]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 1685000</precio>
+<dormitorios> 4</dormitorios>
+<banios> 3</banios>
+<metros_utiles> 265</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[40.45193, -3.688074]]></coordenadas>
+
+<otros_telefonos>
+
+<otro_telefono>
+
+<telefono><![CDATA[]]></telefono>
+
+<movil><![CDATA[610009009]]></movil>
+
+<fax><![CDATA[]]></fax>
+
+<contacto><![CDATA[www.vistareal.es]]></contacto>
+
+<observaciones><![CDATA[]]></observaciones>
+
+<email><![CDATA[]]></email>
+
+</otro_telefono>
+
+</otros_telefonos>
+
+</Contacto>
+<Contacto>
+<cod_contacto>338</cod_contacto>
+<fec_alta>25/10/2019</fec_alta>
+<fec_modificacion>28/10/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Mara]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[605908684]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Madrid]]></nomZona>
+<direccion><![CDATA[Calle Caídos de la División Azul]]></direccion>
+<cod_postal><![CDATA[28016]]></cod_postal>
+<observaciones><![CDATA[No quieren agencias, pero puedo volver a llamar  no antes de Navidad.
+
+
+Duplex de 191 m2 más 80 m2 de terraza. La primera planta tiene 3 dormitorios y 3 baños, amplio salón y cocina. La segunda planta tiene una pequeña habitación, un aseo y un gran salón acristalado con salida a una fantástica terraza de 80 m2. La casa tiene infinitas posibilidades de reforma, pudiéndose sacar en el piso de arriba 2 dormitorios.
+Incluye una plaza de garaje y trastero
+La comunidad cuenta con piscina y zonas ajardinadas.
+La fachada del edificio Está siendo renovada, mejorando el aislamiento y dando un acabado mucho más moderno."]]></observaciones>
+<medio_captacion><![CDATA[Oficina]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[Piso]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 1200000</precio>
+<dormitorios> 3</dormitorios>
+<banios> 3</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>342</cod_contacto>
+<fec_alta>30/10/2019</fec_alta>
+<fec_modificacion>30/10/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Laura]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[650761866]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Retiro - Ibiza]]></nomZona>
+<direccion><![CDATA[Calle Antonio Acuña]]></direccion>
+<cod_postal><![CDATA[28009]]></cod_postal>
+<observaciones><![CDATA[Son dos hermanas, yo he hablado con Laura.
+No quieren agencias por el momento. Dice que lo tienen en Id. pero no lo encuentro. Tampoco me ha dado precio ni metros, pero lo he visto con la portera, Consuelo.
+Bajo reformado con 2 d. (uno muy pequeño) 1 b. cocina independiente, dos patios de uso privativo,, a.a. por conductos, calef. indiv.
+Ojo con Consuelo,  habla muchísimo.....]]></observaciones>
+<medio_captacion><![CDATA[Carteles Calle]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+<otros_telefonos>
+
+<otro_telefono>
+
+<telefono><![CDATA[]]></telefono>
+
+<movil><![CDATA[650761866]]></movil>
+
+<fax><![CDATA[]]></fax>
+
+<contacto><![CDATA[Laura]]></contacto>
+
+<observaciones><![CDATA[]]></observaciones>
+
+<email><![CDATA[]]></email>
+
+</otro_telefono>
+
+<otro_telefono>
+
+<telefono><![CDATA[]]></telefono>
+
+<movil><![CDATA[619765282]]></movil>
+
+<fax><![CDATA[]]></fax>
+
+<contacto><![CDATA[Esther]]></contacto>
+
+<observaciones><![CDATA[]]></observaciones>
+
+<email><![CDATA[]]></email>
+
+</otro_telefono>
+
+</otros_telefonos>
+
+</Contacto>
+<Contacto>
+<cod_contacto>351</cod_contacto>
+<fec_alta>04/11/2019</fec_alta>
+<fec_modificacion>04/11/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Gonzalo]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[620895824]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[Calle Conde Peñalver]]></direccion>
+<cod_postal><![CDATA[28006]]></cod_postal>
+<observaciones><![CDATA[Piso en zona de Goya, para entrar a vivir totalmente reformado. Ventanas de aluminio oscilobatientes con Climalit, parquet de roble, cocina amueblada.
+Esta ubicado en pleno corazón del barrio de Salamanca, un piso muy tranquilo y muy buena finca.
+Mejor visitarlo sin compromiso."
+77 m² construidos
+2 habitaciones
+1 baño
+Segunda mano/buen estado
+Armarios empotrados
+Orientación sur
+Certificación energética: no indicado
+Edificio
+Planta 6ª interior
+Con ascensor. NO LE INTERESA INMOBILIARIAS]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[Venta]]></tipo_operacion>
+<precio> 479000</precio>
+<dormitorios> 2</dormitorios>
+<banios> 1</banios>
+<metros_utiles> 77</metros_utiles>
+<enlace_web><![CDATA[https://www.idealista.com/inmueble/87469918/?xts=582065&xtor=EPR-202-%5bexpress_private_prospecting_alerts_20191029%5d-20191029-%5binmueble_28_479.000%5d-%5b%5d-20191029104943]]></enlace_web>
+<coordenadas><![CDATA[40.428088, -3.675403]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>372</cod_contacto>
+<fec_alta>20/11/2019</fec_alta>
+<fec_modificacion>20/11/2019</fec_modificacion>
+<tipo_contacto><![CDATA[Vende Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Pilar]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[689203058]]></telefono2>
+<telf_movil><![CDATA[619754132]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Salamanca - Goya]]></nomZona>
+<direccion><![CDATA[Calle Felipe II]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Me ha dicho que por el momento quieren venderlo solos, que de momento no quieren pagar comisión a ninguna agencia
+(llamar más adelante)
+
+Características básicas
+164 m² construidos
+4 habitaciones
+3 baños
+Terraza
+Plaza de garaje incluida en el precio
+Segunda mano/para reformar
+Armarios empotrados
+Calefacción central
+Certificación energética: en trámite
+Acceso adaptado a personas con movilidad reducida
+Edificio
+Planta 2ª exterior
+Con ascensor
+
+
+Comentario del anunciante
+Disponible en: Español English Otros idiomas 
+"Piso de 164 m en magnifica localización en el Barrio de Salamanca (Avenida de Felipe II).
+
+El piso consta de:
+
+- hall, salón comedor exterior con ventanales y terraza;
+- cocina con terraza cubierta a patio interior de manzana;
+- zona de office con dormitorio y aseo de servicio;
+- tres dormitorios principales;
+- dos baños.
+
+Calefacción y agua caliente central.
+Portero físico.
+Plaza de garaje incluida.]]></observaciones>
+<medio_captacion><![CDATA[Portal - Idealista]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+<otros_telefonos>
+
+<otro_telefono>
+
+<telefono><![CDATA[689203058]]></telefono>
+
+<movil><![CDATA[619754132]]></movil>
+
+<fax><![CDATA[]]></fax>
+
+<contacto><![CDATA[Pilar]]></contacto>
+
+<observaciones><![CDATA[]]></observaciones>
+
+<email><![CDATA[]]></email>
+
+</otro_telefono>
+
+</otros_telefonos>
+
+</Contacto>
+<Contacto>
+<cod_contacto>387</cod_contacto>
+<fec_alta>30/06/2020</fec_alta>
+<fec_modificacion>30/06/2020</fec_modificacion>
+<tipo_contacto><![CDATA[Alquila Inmueble]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[xxx]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[640576178]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Madrid]]></nomProvincia>
+<nomPoblacion><![CDATA[Madrid]]></nomPoblacion>
+<nomZona><![CDATA[Chamberí - Almagro]]></nomZona>
+<direccion><![CDATA[Calle Zurbano]]></direccion>
+<cod_postal><![CDATA[28003]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Oficina]]></medio_captacion>
+<captador><![CDATA[Augusto Romero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[Alquiler]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 2</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[40.439884, -3.692756]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>391</cod_contacto>
+<fec_alta>24/11/2020</fec_alta>
+<fec_modificacion>24/11/2020</fec_modificacion>
+<tipo_contacto><![CDATA[Ayuntamiento]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Juan Manuel]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[juanmanuel.gutierrezestudillo@elpuertodesantamaria.es]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[956550427]]></telefono2>
+<telf_movil><![CDATA[956550442]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Otros]]></medio_captacion>
+<captador><![CDATA[Patricia Gago Caballero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>392</cod_contacto>
+<fec_alta>20/01/2021</fec_alta>
+<fec_modificacion>20/01/2021</fec_modificacion>
+<tipo_contacto><![CDATA[Albañil]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[PITO]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[cazaoctubrerojo@gmail.com]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[610848550]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Oficina]]></medio_captacion>
+<captador><![CDATA[Patricia Gago Caballero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>394</cod_contacto>
+<fec_alta>14/07/2023</fec_alta>
+<fec_modificacion>14/07/2023</fec_modificacion>
+<tipo_contacto><![CDATA[Otros Contactos]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Jose Maria]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[675914335]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[Fuentebravía]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Oficina]]></medio_captacion>
+<captador><![CDATA[Pepa Viel Cortines]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>10002</cod_contacto>
+<fec_alta>13/02/2024</fec_alta>
+<fec_modificacion>01/04/2024</fec_modificacion>
+<tipo_contacto><![CDATA[Otras Inmobiliarias]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Giorgiana]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[656552463]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Agencia Colaboradora]]></medio_captacion>
+<captador><![CDATA[Pepa Viel Cortines]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+<otros_telefonos>
+
+<otro_telefono>
+
+<telefono><![CDATA[]]></telefono>
+
+<movil><![CDATA[656552463]]></movil>
+
+<fax><![CDATA[]]></fax>
+
+<contacto><![CDATA[Giorgiana Inmo. Bettermann]]></contacto>
+
+<observaciones><![CDATA[]]></observaciones>
+
+<email><![CDATA[]]></email>
+
+</otro_telefono>
+
+</otros_telefonos>
+
+</Contacto>
+<Contacto>
+<cod_contacto>10003</cod_contacto>
+<fec_alta>05/03/2024</fec_alta>
+<fec_modificacion>05/03/2024</fec_modificacion>
+<tipo_contacto><![CDATA[Colaborador]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Gregorio]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[698972780]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[Apartamentos Vistahermosa]]></observaciones>
+<medio_captacion><![CDATA[Oficina]]></medio_captacion>
+<captador><![CDATA[Teresa Roa]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>10004</cod_contacto>
+<fec_alta>05/03/2024</fec_alta>
+<fec_modificacion>06/03/2024</fec_modificacion>
+<tipo_contacto><![CDATA[Colaborador]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Isaac]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[625167397]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Otros]]></medio_captacion>
+<captador><![CDATA[Teresa Roa]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>10005</cod_contacto>
+<fec_alta>06/03/2024</fec_alta>
+<fec_modificacion>06/03/2024</fec_modificacion>
+<tipo_contacto><![CDATA[Colaborador]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Bahia]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[660409648]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Otros]]></medio_captacion>
+<captador><![CDATA[Teresa Roa]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>10006</cod_contacto>
+<fec_alta>06/03/2024</fec_alta>
+<fec_modificacion>06/03/2024</fec_modificacion>
+<tipo_contacto><![CDATA[Colaborador]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Marco]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[690856347]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Otros]]></medio_captacion>
+<captador><![CDATA[Teresa Roa]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>10007</cod_contacto>
+<fec_alta>06/03/2024</fec_alta>
+<fec_modificacion>06/03/2024</fec_modificacion>
+<tipo_contacto><![CDATA[Colaborador]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Alvaro]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[606350691]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Oficina]]></medio_captacion>
+<captador><![CDATA[Teresa Roa]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>10008</cod_contacto>
+<fec_alta>08/03/2024</fec_alta>
+<fec_modificacion>08/03/2024</fec_modificacion>
+<tipo_contacto><![CDATA[Colaborador]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Jose Luis]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[661611717]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Oficina]]></medio_captacion>
+<captador><![CDATA[Teresa Roa]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>10010</cod_contacto>
+<fec_alta>19/03/2024</fec_alta>
+<fec_modificacion>19/03/2024</fec_modificacion>
+<tipo_contacto><![CDATA[Colaborador]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Juan]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[juan@delrioabogados.es]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[696524379]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Captador]]></medio_captacion>
+<captador><![CDATA[Patricia Gago Caballero]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>10011</cod_contacto>
+<fec_alta>20/03/2024</fec_alta>
+<fec_modificacion>01/04/2024</fec_modificacion>
+<tipo_contacto><![CDATA[Otras Inmobiliarias]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Rodrigo]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[956568173]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[649820884]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Agencia Colaboradora]]></medio_captacion>
+<captador><![CDATA[Bibiana Perez Barbadillo Lopez de Carrizosa]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>10012</cod_contacto>
+<fec_alta>09/04/2024</fec_alta>
+<fec_modificacion>09/04/2024</fec_modificacion>
+<tipo_contacto><![CDATA[Colaborador]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Jose]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[667492934]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Oficina]]></medio_captacion>
+<captador><![CDATA[Teresa Roa]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>10013</cod_contacto>
+<fec_alta>09/04/2024</fec_alta>
+<fec_modificacion>09/04/2024</fec_modificacion>
+<tipo_contacto><![CDATA[Colaborador]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Dani]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[607735921]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Oficina]]></medio_captacion>
+<captador><![CDATA[Teresa Roa]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>10014</cod_contacto>
+<fec_alta>09/04/2024</fec_alta>
+<fec_modificacion>09/04/2024</fec_modificacion>
+<tipo_contacto><![CDATA[Colaborador]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Jose]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[696860526]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Otros]]></medio_captacion>
+<captador><![CDATA[Teresa Roa]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>10015</cod_contacto>
+<fec_alta>02/04/2024</fec_alta>
+<fec_modificacion>09/04/2024</fec_modificacion>
+<tipo_contacto><![CDATA[Colaborador]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Andres]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[670813381]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Otros]]></medio_captacion>
+<captador><![CDATA[Teresa Roa]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>10016</cod_contacto>
+<fec_alta>24/04/2024</fec_alta>
+<fec_modificacion>24/04/2024</fec_modificacion>
+<tipo_contacto><![CDATA[Otras Inmobiliarias]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Fatima]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[670875714]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Agencia Colaboradora]]></medio_captacion>
+<captador><![CDATA[Bibiana Perez Barbadillo Lopez de Carrizosa]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>10017</cod_contacto>
+<fec_alta>25/09/2024</fec_alta>
+<fec_modificacion>25/09/2024</fec_modificacion>
+<tipo_contacto><![CDATA[Colaborador]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Jose Antonio]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[]]></telefono2>
+<telf_movil><![CDATA[666640368]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Oficina]]></medio_captacion>
+<captador><![CDATA[Teresa Roa]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+<Contacto>
+<cod_contacto>10019</cod_contacto>
+<fec_alta>10/07/2025</fec_alta>
+<fec_modificacion>10/07/2025</fec_modificacion>
+<tipo_contacto><![CDATA[Colaborador]]></tipo_contacto>
+<estado><![CDATA[ACTIVO]]></estado>
+<est_eliminar>0</est_eliminar>
+<eliminar>0</eliminar>
+<descripcion><![CDATA[Silvia]]></descripcion>
+<cif><![CDATA[]]></cif>
+<email><![CDATA[]]></email>
+<telefono1><![CDATA[]]></telefono1>
+<telefono2><![CDATA[956058525]]></telefono2>
+<telf_movil><![CDATA[666180117]]></telf_movil>
+<fax><![CDATA[]]></fax>
+<horario_trabajo><![CDATA[]]></horario_trabajo>
+<otro_contacto><![CDATA[]]></otro_contacto>
+<telf_contacto><![CDATA[]]></telf_contacto>
+<nomPais><![CDATA[España]]></nomPais>
+<nomProvincia><![CDATA[Cádiz]]></nomProvincia>
+<nomPoblacion><![CDATA[El Puerto de Santa María]]></nomPoblacion>
+<nomZona><![CDATA[]]></nomZona>
+<direccion><![CDATA[]]></direccion>
+<cod_postal><![CDATA[]]></cod_postal>
+<observaciones><![CDATA[]]></observaciones>
+<medio_captacion><![CDATA[Otros]]></medio_captacion>
+<captador><![CDATA[Pepa Viel Cortines]]></captador>
+<tipo_inmueble><![CDATA[]]></tipo_inmueble>
+<tipo_operacion><![CDATA[]]></tipo_operacion>
+<precio> 0</precio>
+<dormitorios> 0</dormitorios>
+<banios> 0</banios>
+<metros_utiles> 0</metros_utiles>
+<enlace_web><![CDATA[https://www.puntohogarinmobiliaria.com/]]></enlace_web>
+<coordenadas><![CDATA[]]></coordenadas>
+
+</Contacto>
+</Contactos>
+</root>
