@@ -41,10 +41,11 @@ with st.container():
     # Selector de rango de meses (usa fechas)
     fecha_ini, fecha_fin = col_f3.date_input(
         "Rango de meses",
-        value=(date(2025, 1, 1), max_d.date()),
-        min_value=date(2025, 1, 1),
-        max_value=max_d.date(),
+        value=(date(2025, 8, 1), date(2025, 8, 1)),  # valor inicial mostrado
+        min_value=df["fecha"].min().date(),           # límite inferior dinámico
+        max_value=df["fecha"].max().date(),           # límite superior dinámico
     )
+
 
 # --- Aplicar filtros ---
 mask = (

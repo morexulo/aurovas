@@ -34,10 +34,11 @@ if pd.isna(min_d) or pd.isna(max_d):
 
 fi, ff = c3.date_input(
     "Rango de meses",
-    value=(datetime.date(2025, 1, 1), max_d.date()),
-    min_value=datetime.date(2025, 1, 1),
-    max_value=max_d.date(),
+    value=(datetime.date(2025, 8, 1), datetime.date(2025, 8, 1)),  # valor inicial mostrado
+    min_value=df["fecha"].min().date(),   # límite inferior dinámico
+    max_value=df["fecha"].max().date(),   # límite superior dinámico
 )
+
 
 mask = (
     df["agente"].isin(agentes_sel)

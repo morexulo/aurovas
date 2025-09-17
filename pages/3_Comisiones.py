@@ -35,11 +35,11 @@ with st.container():
         st.error("No hay fechas válidas en comisiones.")
         st.stop()
 
-    fecha_ini, fecha_fin = col_f2.date_input(
+    fecha_ini, fecha_fin = col_f2.date_input(   
         "Rango de meses",
-        value=(date(2025, 1, 1), max_d.date()),
-        min_value=date(2025, 1, 1),
-        max_value=max_d.date(),
+        value=(date(2025, 8, 1), date(2025, 8, 1)),  # valor inicial marcado
+        min_value=df["fecha"].min().date(),           # límite inferior dinámico
+        max_value=df["fecha"].max().date(),           # límite superior dinámico
     )
 
 # --- Aplicar filtros (para ranking/tablas) ---
