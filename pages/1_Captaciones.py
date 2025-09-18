@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from datetime import date
+from datetime import date, timedelta
 
 st.title("📊 Captaciones")
 
@@ -20,32 +20,32 @@ df["fecha"] = pd.to_datetime(
     errors="coerce"
 )
 
-# --- Filtros superiores (no en sidebar) ---
+# --- Filtros superiores ---
 with st.container():
-    # Defaults centrados en las agentes clave si existen
     agentes_all = sorted(df["agente"].dropna().unique().tolist())
-    preferidas = [a for a in agentes_all if any(x in a for x in ["Bibiana", "Pati", "Teresa"])]
-    default_agentes = preferidas if preferidas else agentes_all
+    agentes_sel = st.multiselect("Agentes", agentes_all, default=agentes_all)
 
     tipos_all = sorted(df["tipo"].dropna().unique().tolist())
-    col_f1, col_f2, col_f3 = st.columns([2, 2, 3])
-
-    agentes_sel = col_f1.multiselect("Agentes", agentes_all, default=default_agentes)
-    tipos_sel = col_f2.multiselect("Tipo de operación", tipos_all, default=tipos_all)
+    tipos_sel = st.multiselect("Tipo de operación", tipos_all, default=tipos_all)
 
     min_d = df["fecha"].min()
     max_d = df["fecha"].max()
     if pd.isna(min_d) or pd.isna(max_d):
         st.error("No hay fechas válidas en las captaciones.")
         st.stop()
-    # Selector de rango de meses (usa fechas)
-    fecha_ini, fecha_fin = col_f3.date_input(
-        "Rango de meses",
-        value=(date(2025, 8, 1), date(2025, 8, 1)),  # valor inicial mostrado
-        min_value=df["fecha"].min().date(),           # límite inferior dinámico
-        max_value=df["fecha"].max().date(),           # límite superior dinámico
-    )
 
+    # Rango por defecto: últimos 30 días hasta max_d
+    ultimo_fin = max_d.date()
+    ultimo_ini = (max_d - timedelta(days=60)).date()
+    if ultimo_ini < min_d.date():
+        ultimo_ini = min_d.date()
+
+    fecha_ini, fecha_fin = st.date_input(
+        "Rango de fechas",
+        value=(ultimo_ini, ultimo_fin),
+        min_value=min_d.date(),
+        max_value=max_d.date(),
+    )
 
 # --- Aplicar filtros ---
 mask = (
@@ -60,7 +60,6 @@ df_f = df.loc[mask].copy()
 col_k1, col_k2, col_k3, col_k4 = st.columns(4)
 total_sel = int(df_f["num_inmuebles"].sum()) if not df_f.empty else 0
 
-# último mes dentro del rango filtrado
 if df_f.empty:
     ult_mes_total = 0
     ytd_total = 0
@@ -68,10 +67,8 @@ if df_f.empty:
 else:
     ult_mes = df_f["fecha"].max()
     ult_mes_total = int(df_f.loc[df_f["fecha"] == ult_mes, "num_inmuebles"].sum())
-    # YTD del año del último mes seleccionado
     ytd_mask = (df_f["fecha"].dt.year == ult_mes.year)
     ytd_total = int(df_f.loc[ytd_mask, "num_inmuebles"].sum())
-    # media mensual del rango
     meses_unicos = df_f["fecha"].dt.to_period("M").nunique()
     media_mensual = round(total_sel / meses_unicos, 1) if meses_unicos else 0
 
@@ -82,7 +79,7 @@ col_k4.metric("Media mensual", media_mensual)
 
 st.divider()
 
-# --- Gráfico 1: Evolución mensual (área apilada por tipo) ---
+# --- Gráfico 1: Evolución mensual ---
 st.subheader("Evolución mensual por tipo")
 if df_f.empty:
     st.info("No hay datos para los filtros seleccionados.")
@@ -98,7 +95,6 @@ else:
         color="tipo",
         line_group="tipo",
         markers=False,
-        title=None,
         labels={"fecha": "Mes", "num_inmuebles": "Nº de inmuebles", "tipo": "Tipo"},
     )
     fig_area.update_layout(legend_title_text="Tipo de operación", height=420, margin=dict(t=10, b=10))
@@ -106,7 +102,7 @@ else:
 
 st.divider()
 
-# --- Gráfico 2: Comparativa por agente (barras agrupadas por mes) ---
+# --- Gráfico 2: Comparativa por agente ---
 st.subheader("Comparativa mensual por agente")
 if df_f.empty:
     st.info("No hay datos para los filtros seleccionados.")
@@ -121,15 +117,19 @@ else:
         y="num_inmuebles",
         color="agente",
         barmode="group",
-        title=None,
+        text="num_inmuebles",  # <--- mostrar números en la barra
         labels={"fecha": "Mes", "num_inmuebles": "Nº de inmuebles", "agente": "Agente"},
+    )
+    fig_bar.update_traces(
+        texttemplate="%{text}", 
+        textposition="outside"
     )
     fig_bar.update_layout(legend_title_text="Agente", height=420, margin=dict(t=10, b=10))
     st.plotly_chart(fig_bar, use_container_width=True)
 
 st.divider()
 
-# --- Gráfico 3: Reparto por tipo (donut) sobre el rango filtrado ---
+# --- Gráfico 3: Reparto por tipo ---
 st.subheader("Reparto por tipo en el periodo seleccionado")
 if df_f.empty:
     st.info("No hay datos para los filtros seleccionados.")
@@ -140,7 +140,6 @@ else:
         names="tipo",
         values="num_inmuebles",
         hole=0.5,
-        title=None,
     )
     fig_pie.update_layout(legend_title_text="Tipo", height=380, margin=dict(t=10, b=10))
     col_p1, col_p2 = st.columns([2, 3])
@@ -152,7 +151,6 @@ if df_f.empty:
     st.info("No hay datos para mostrar.")
 else:
     orden = df_f.sort_values(["fecha", "agente", "tipo"], ascending=[False, True, True]).reset_index(drop=True)
-    # columnas ordenadas y legibles
     cols = ["fecha", "año", "mes", "agente", "tipo", "num_inmuebles"]
     cols = [c for c in cols if c in orden.columns]
     st.dataframe(orden[cols], use_container_width=True, hide_index=True)

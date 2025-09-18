@@ -1,10 +1,10 @@
 # parser/transform.py
 from __future__ import annotations
 import pandas as pd
+from typing import Dict, Optional
 
 # ---------- Helpers ----------
 def _sanitize_str(s: pd.Series) -> pd.Series:
-    # Limpia strings: quita espacios/saltos y normaliza nulos
     if s is None:
         return pd.Series(dtype="object")
     s = s.astype(str).str.strip()
@@ -12,7 +12,6 @@ def _sanitize_str(s: pd.Series) -> pd.Series:
     return s
 
 def _to_datetime(s: pd.Series) -> pd.Series:
-    # dayfirst=True (formatos españoles). Recibe serie ya saneada.
     return pd.to_datetime(s, errors="coerce", dayfirst=True)
 
 def _add_year_month(df: pd.DataFrame, date_col: str) -> pd.DataFrame:
@@ -21,18 +20,15 @@ def _add_year_month(df: pd.DataFrame, date_col: str) -> pd.DataFrame:
     df["mes"] = df[date_col].dt.month
     return df
 
-def _to_num(s: pd.Series) -> pd.Series:
-    # Soporta "€ 1.234,56", "1 234,56", "1234.56", etc.
-    s = _sanitize_str(s)
-    # mantener solo dígitos, separadores y signo
-    s = s.str.replace(r"[^\d,.\-]", "", regex=True)
-    # caso ES: miles con punto y decimales con coma -> quitar miles y convertir coma a punto
-    s = s.str.replace(".", "", regex=False).str.replace(",", ".", regex=False)
-    return pd.to_numeric(s, errors="coerce").fillna(0.0)
+def _to_num(val) -> float:
+    try:
+        return float(str(val).replace(",", "."))
+    except Exception:
+        return 0.0
 
-# ---------- Limpiezas base ----------
-def clean_inmuebles(df_inm: pd.DataFrame) -> pd.DataFrame:
-    if df_inm is None:
+# ---------- Captaciones ----------
+def clean_inmuebles(df_inm: Optional[pd.DataFrame]) -> pd.DataFrame:
+    if df_inm is None or df_inm.empty:
         return pd.DataFrame(columns=["fecha", "agente", "tipo", "precio", "precio_total", "año", "mes"])
 
     keep = {
@@ -44,26 +40,21 @@ def clean_inmuebles(df_inm: pd.DataFrame) -> pd.DataFrame:
     }
     df = df_inm.rename(columns=keep).reindex(columns=list(keep.values())).copy()
 
-    # Fecha
     df["fecha"] = _to_datetime(_sanitize_str(df["fecha"]))
-    # Agente (no eliminar por estar vacío)
     df["agente"] = _sanitize_str(df["agente"]).fillna("Desconocido")
-    # Tipo
     df["tipo"] = _sanitize_str(df["tipo"]).fillna("Sin especificar")
 
-    # Numéricos (por si luego los quieres usar)
     if "precio" in df:
-        df["precio"] = _to_num(df["precio"])
+        df["precio"] = pd.to_numeric(df["precio"], errors="coerce").fillna(0.0)
     if "precio_total" in df:
-        df["precio_total"] = _to_num(df["precio_total"])
+        df["precio_total"] = pd.to_numeric(df["precio_total"], errors="coerce").fillna(0.0)
 
-    # Eliminar solo filas sin fecha
     df = df.dropna(subset=["fecha"])
-    # Añadir año/mes
     return _add_year_month(df, "fecha")
 
-def clean_demandas(df_dem: pd.DataFrame) -> pd.DataFrame:
-    if df_dem is None:
+# ---------- Demandas ----------
+def clean_demandas(df_dem: Optional[pd.DataFrame]) -> pd.DataFrame:
+    if df_dem is None or df_dem.empty:
         return pd.DataFrame(columns=["fecha", "agente", "tipo", "año", "mes"])
 
     keep = {
@@ -73,99 +64,96 @@ def clean_demandas(df_dem: pd.DataFrame) -> pd.DataFrame:
     }
     df = df_dem.rename(columns=keep).reindex(columns=list(keep.values())).copy()
 
-    # Fecha
     df["fecha"] = _to_datetime(_sanitize_str(df["fecha"]))
-    # Agente (no eliminar por estar vacío)
     df["agente"] = _sanitize_str(df["agente"]).fillna("Desconocido")
-    # Tipo
     df["tipo"] = _sanitize_str(df["tipo"]).fillna("Sin especificar")
 
-    # Eliminar solo filas sin fecha
     df = df.dropna(subset=["fecha"])
-    # Añadir año/mes
     return _add_year_month(df, "fecha")
 
-def clean_operaciones(df_op: pd.DataFrame) -> pd.DataFrame:
-    if df_op is None:
-        return pd.DataFrame(columns=["fecha", "agente", "tipo", "com_prop", "com_dem", "com_cli",
-                                     "comision_total", "año", "mes"])
-
-    keep = {
-        "fecha": "fecha",
-        "vendedor": "agente",
-        "tipo": "tipo",
-        "valorCom_propietario": "com_prop",
-        "valorCom_demandante": "com_dem",
-        "valorCom_cliente": "com_cli",
-    }
-    df = df_op.rename(columns=keep).reindex(columns=list(keep.values())).copy()
-
-    # Fecha
-    df["fecha"] = _to_datetime(_sanitize_str(df["fecha"]))
-    # Agente / Tipo
-    df["agente"] = _sanitize_str(df["agente"]).fillna("Desconocido")
-    df["tipo"] = _sanitize_str(df["tipo"]).fillna("Sin especificar")
-
-    # Comisiones numéricas
-    for c in ("com_prop", "com_dem", "com_cli"):
-        if c in df:
-            df[c] = _to_num(df[c])
+# ---------- Operaciones (Comisiones) ----------
+def calcular_comision_total(row: pd.Series) -> float:
+    total = 0.0
+    precio = _to_num(row.get("precio_operacion", 0.0))
+    for quien in ["propietario", "demandante", "cliente"]:
+        tipo = str(row.get(f"tipoCom_{quien}", "") or "").strip().lower()
+        valor = _to_num(row.get(f"valorCom_{quien}", 0.0))
+        if valor == 0:
+            continue
+        if "%" in tipo:
+            total += precio * valor / 100.0
         else:
-            df[c] = 0.0
+            total += valor
+    return total
 
-    df["comision_total"] = df["com_prop"] + df["com_dem"] + df["com_cli"]
+def clean_operaciones(df_op: Optional[pd.DataFrame]) -> pd.DataFrame:
+    if df_op is None or df_op.empty:
+        return pd.DataFrame(columns=[
+            "cod_operacion", "fecha", "agente", "tipo", "estado",
+            "precio_operacion", "comision_total", "año", "mes"
+        ])
 
-    # Eliminar solo filas sin fecha
+    df = df_op.copy()
+    df["fecha"] = _to_datetime(_sanitize_str(df["fecha"]))
+    df["agente"] = _sanitize_str(df.get("vendedor")).fillna("Desconocido")
+    df["tipo"] = _sanitize_str(df.get("tipo")).fillna("Sin especificar")
+    df["precio_operacion"] = pd.to_numeric(df.get("precio_operacion"), errors="coerce").fillna(0.0)
+
+    # calcular comisiones reales
+    df["comision_total"] = df.apply(calcular_comision_total, axis=1)
+
+    # filtrar solo operaciones firmadas/pagadas
+    estados_validos = {"Firmada", "Pagado"}
+    df = df[df["estado"].isin(estados_validos)].copy()
+
     df = df.dropna(subset=["fecha"])
-    # Añadir año/mes
     return _add_year_month(df, "fecha")
 
-# ---------- Resúmenes para el dashboard ----------
-def resumen_captaciones(df_inm_limpio: pd.DataFrame) -> pd.DataFrame:
-    if df_inm_limpio.empty:
+# ---------- Resúmenes ----------
+def resumen_captaciones(df_inm: pd.DataFrame) -> pd.DataFrame:
+    if df_inm.empty:
         return pd.DataFrame(columns=["año", "mes", "agente", "tipo", "num_inmuebles"])
     return (
-        df_inm_limpio
-        .groupby(["año", "mes", "agente", "tipo"], as_index=False)
+        df_inm.groupby(["año", "mes", "agente", "tipo"], as_index=False)
         .size()
         .rename(columns={"size": "num_inmuebles"})
         .sort_values(["año", "mes", "agente", "tipo"])
         .reset_index(drop=True)
     )
 
-def resumen_demandas(df_dem_limpio: pd.DataFrame) -> pd.DataFrame:
-    if df_dem_limpio.empty:
+def resumen_demandas(df_dem: pd.DataFrame) -> pd.DataFrame:
+    if df_dem.empty:
         return pd.DataFrame(columns=["año", "mes", "agente", "tipo", "num_demandas"])
     return (
-        df_dem_limpio
-        .groupby(["año", "mes", "agente", "tipo"], as_index=False)
+        df_dem.groupby(["año", "mes", "agente", "tipo"], as_index=False)
         .size()
         .rename(columns={"size": "num_demandas"})
         .sort_values(["año", "mes", "agente", "tipo"])
         .reset_index(drop=True)
     )
 
-def resumen_comisiones(df_op_limpio: pd.DataFrame) -> pd.DataFrame:
-    if df_op_limpio.empty:
-        return pd.DataFrame(columns=["año", "mes", "agente", "comision_total"])
+def resumen_comisiones(df_op: pd.DataFrame) -> pd.DataFrame:
+    if df_op.empty:
+        return pd.DataFrame(columns=["año", "mes", "agente", "total_comision", "num_ops"])
     return (
-        df_op_limpio
-        .groupby(["año", "mes", "agente"], as_index=False)["comision_total"]
-        .sum()
+        df_op.groupby(["año", "mes", "agente"], as_index=False)
+        .agg(
+            total_comision=("comision_total", "sum"),
+            num_ops=("cod_operacion", "count"),
+        )
         .sort_values(["año", "mes", "agente"])
         .reset_index(drop=True)
     )
 
 # ---------- Orquestador ----------
 def build_all_resumenes(
-    df_inm_raw: pd.DataFrame,
-    df_dem_raw: pd.DataFrame,
-    df_op_raw: pd.DataFrame,
+    df_inmuebles: Optional[pd.DataFrame],
+    df_demandas: Optional[pd.DataFrame],
+    df_operaciones: Optional[pd.DataFrame],
 ) -> dict[str, pd.DataFrame]:
-    # Limpiar cada dataset (tolerante a None y a strings sucios)
-    df_inm = clean_inmuebles(df_inm_raw)
-    df_dem = clean_demandas(df_dem_raw)
-    df_op = clean_operaciones(df_op_raw)
+    df_inm = clean_inmuebles(df_inmuebles)
+    df_dem = clean_demandas(df_demandas)
+    df_op = clean_operaciones(df_operaciones)
 
     return {
         "captaciones": resumen_captaciones(df_inm),

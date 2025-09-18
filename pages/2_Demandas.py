@@ -2,10 +2,11 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import datetime
+from datetime import timedelta
 
 st.title("📈 Demandas")
 
+# --- Validación de datos ---
 res = st.session_state.get("resumenes")
 if not res or "demandas" not in res:
     st.warning("⚠️ Sube primero un ZIP desde la pestaña 'Inicio'.")
@@ -17,29 +18,32 @@ df["fecha"] = pd.to_datetime(
     errors="coerce"
 )
 
-# ------- Filtros superiores -------
+# --- Filtros superiores ---
 agentes_all = sorted(df["agente"].dropna().unique().tolist())
-preferidas = [a for a in agentes_all if any(x in a for x in ["Bibiana", "Pati", "Teresa"])]
-default_agentes = preferidas if preferidas else agentes_all
-tipos_all = sorted(df["tipo"].dropna().unique().tolist())
+agentes_sel = st.multiselect("Agentes", agentes_all, default=agentes_all)
 
-c1, c2, c3 = st.columns([2, 2, 3])
-agentes_sel = c1.multiselect("Agentes", agentes_all, default=default_agentes)
-tipos_sel = c2.multiselect("Tipo de operación", tipos_all, default=tipos_all)
+tipos_all = sorted(df["tipo"].dropna().unique().tolist())
+tipos_sel = st.multiselect("Tipo de operación", tipos_all, default=tipos_all)
 
 min_d, max_d = df["fecha"].min(), df["fecha"].max()
 if pd.isna(min_d) or pd.isna(max_d):
     st.error("No hay fechas válidas en las demandas.")
     st.stop()
 
-fi, ff = c3.date_input(
-    "Rango de meses",
-    value=(datetime.date(2025, 8, 1), datetime.date(2025, 8, 1)),  # valor inicial mostrado
-    min_value=df["fecha"].min().date(),   # límite inferior dinámico
-    max_value=df["fecha"].max().date(),   # límite superior dinámico
+# Rango por defecto: últimos 30 días
+ultimo_fin = max_d.date()
+ultimo_ini = (max_d - timedelta(days=60)).date()
+if ultimo_ini < min_d.date():
+    ultimo_ini = min_d.date()
+
+fi, ff = st.date_input(
+    "Rango de fechas",
+    value=(ultimo_ini, ultimo_fin),
+    min_value=min_d.date(),
+    max_value=max_d.date(),
 )
 
-
+# --- Aplicar filtros ---
 mask = (
     df["agente"].isin(agentes_sel)
     & df["tipo"].isin(tipos_sel)
@@ -48,7 +52,7 @@ mask = (
 )
 df_f = df.loc[mask].copy()
 
-# ------- KPIs -------
+# --- KPIs ---
 k1, k2, k3, k4 = st.columns(4)
 total_sel = int(df_f["num_demandas"].sum()) if not df_f.empty else 0
 if df_f.empty:
@@ -70,7 +74,7 @@ k4.metric("Media mensual", media_mensual)
 
 st.divider()
 
-# ------- Evolución mensual por tipo -------
+# --- Evolución mensual por tipo ---
 st.subheader("Evolución mensual por tipo")
 if df_f.empty:
     st.info("No hay datos para los filtros seleccionados.")
@@ -91,7 +95,7 @@ else:
 
 st.divider()
 
-# ------- Comparativa mensual por agente -------
+# --- Comparativa mensual por agente ---
 st.subheader("Comparativa mensual por agente")
 if df_f.empty:
     st.info("No hay datos para los filtros seleccionados.")
@@ -106,14 +110,19 @@ else:
         y="num_demandas",
         color="agente",
         barmode="group",
+        text="num_demandas",  # <-- mostrar números
         labels={"fecha": "Mes", "num_demandas": "Nº de demandas", "agente": "Agente"},
+    )
+    fig_bar.update_traces(
+        texttemplate="%{text}",
+        textposition="outside"
     )
     fig_bar.update_layout(legend_title_text="Agente", height=420, margin=dict(t=10, b=10))
     st.plotly_chart(fig_bar, use_container_width=True)
 
 st.divider()
 
-# ------- Reparto por tipo en el periodo -------
+# --- Reparto por tipo en el periodo ---
 st.subheader("Reparto por tipo en el periodo seleccionado")
 if df_f.empty:
     st.info("No hay datos para los filtros seleccionados.")
@@ -123,7 +132,7 @@ else:
     fig_pie.update_layout(legend_title_text="Tipo", height=380, margin=dict(t=10, b=10))
     st.plotly_chart(fig_pie, use_container_width=True)
 
-# ------- Detalle -------
+# --- Detalle ---
 st.subheader("Detalle de demandas")
 if df_f.empty:
     st.info("No hay datos para mostrar.")

@@ -4,7 +4,7 @@ from pathlib import Path
 import os
 from dotenv import load_dotenv  # para cargar .env en local
 from parser.xml_loader import load_folder_to_dfs, load_zip_to_dfs
-from parser.transform import build_all_resumenes
+from parser.transform import build_all_resumenes  # <-- usamos el transformador unificado
 
 st.set_page_config(page_title="Inmo Dashboard", layout="wide")
 
