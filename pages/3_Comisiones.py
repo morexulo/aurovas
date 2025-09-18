@@ -2,8 +2,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from datetime import date
-import calendar
+from datetime import date, timedelta
 
 st.title("💰 Comisiones")
 
@@ -29,17 +28,16 @@ df_ops["mes_periodo"] = df_ops["fecha"].dt.to_period("M")
 # --- Filtros ---
 with st.container():
     agentes_all = sorted(df_ops["agente"].dropna().unique().tolist())
-    preferidas = [a for a in agentes_all if any(x in a for x in ["Bibiana", "Pati", "Patricia", "Teresa"])]
-    default_agentes = preferidas if preferidas else agentes_all
+    default_agentes = agentes_all  # ✅ todos seleccionados por defecto
 
     min_d = df_ops["fecha"].min().date()
     max_d = df_ops["fecha"].max().date()
 
-    default_start = date(max_d.year, max_d.month, 1)
-    last_day = calendar.monthrange(max_d.year, max_d.month)[1]
-    default_end = date(max_d.year, max_d.month, last_day)
-    if default_end > max_d:
-        default_end = max_d
+    # ✅ Últimos 60 días
+    default_end = max_d
+    default_start = max_d - timedelta(days=60)
+    if default_start < min_d:
+        default_start = min_d
 
     col_f1, col_f2 = st.columns([2, 3])
     agentes_sel = col_f1.multiselect("Agentes", agentes_all, default=default_agentes)
@@ -96,7 +94,7 @@ else:
         dff.groupby("agente", as_index=False)
            .agg(
                total_comision=("comision_total", "sum"),
-               num_ops=("comision_total", "count")  # ✅ usamos comision_total para contar filas
+               num_ops=("comision_total", "count")  # ✅ contar filas en vez de cod_operacion
            )
            .sort_values("total_comision", ascending=True)
     )
