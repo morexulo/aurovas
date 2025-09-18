@@ -2,7 +2,8 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from datetime import timedelta
+from datetime import date
+import calendar
 
 st.title("💰 Comisiones")
 
@@ -28,18 +29,21 @@ df_ops["mes_periodo"] = df_ops["fecha"].dt.to_period("M")
 # --- Filtros ---
 with st.container():
     agentes_all = sorted(df_ops["agente"].dropna().unique().tolist())
-    agentes_sel = st.multiselect("Agentes", agentes_all, default=agentes_all)
+    preferidas = [a for a in agentes_all if any(x in a for x in ["Bibiana", "Pati", "Patricia", "Teresa"])]
+    default_agentes = preferidas if preferidas else agentes_all
 
     min_d = df_ops["fecha"].min().date()
     max_d = df_ops["fecha"].max().date()
 
-    # Rango por defecto: últimos 30 días
-    default_start = (max_d - timedelta(days=60))
-    if default_start < min_d:
-        default_start = min_d
-    default_end = max_d
+    default_start = date(max_d.year, max_d.month, 1)
+    last_day = calendar.monthrange(max_d.year, max_d.month)[1]
+    default_end = date(max_d.year, max_d.month, last_day)
+    if default_end > max_d:
+        default_end = max_d
 
-    fecha_ini, fecha_fin = st.date_input(
+    col_f1, col_f2 = st.columns([2, 3])
+    agentes_sel = col_f1.multiselect("Agentes", agentes_all, default=default_agentes)
+    fecha_ini, fecha_fin = col_f2.date_input(
         "Rango de fechas (por días)",
         value=(default_start, default_end),
         min_value=min_d,
@@ -90,17 +94,13 @@ if dff.empty:
 else:
     rank = (
         dff.groupby("agente", as_index=False)
-           .agg(total_comision=("comision_total", "sum"),
-                num_ops=("cod_operacion", "count"))
+           .agg(
+               total_comision=("comision_total", "sum"),
+               num_ops=("comision_total", "count")  # ✅ usamos comision_total para contar filas
+           )
            .sort_values("total_comision", ascending=True)
     )
-    fig_rank = px.bar(
-        rank, 
-        x="total_comision", 
-        y="agente", 
-        orientation="h", 
-        text="total_comision"
-    )
+    fig_rank = px.bar(rank, x="total_comision", y="agente", orientation="h", text="total_comision")
     fig_rank.update_traces(texttemplate="€%{text:,.0f}", textposition="outside")
     st.plotly_chart(fig_rank, use_container_width=True)
 
