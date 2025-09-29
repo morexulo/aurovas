@@ -3,8 +3,8 @@
 <Empresa>
 <cod_empresa>23600</cod_empresa>
 <cod_oficina>1</cod_oficina>
-<fecha_copia>29/08/2025</fecha_copia>
-<total_facturas>111</total_facturas>
+<fecha_copia>29/09/2025</fecha_copia>
+<total_facturas>115</total_facturas>
 </Empresa>
 <Facturas>
 <Factura>
@@ -205,7 +205,7 @@
 <Factura>
 <numero><![CDATA[015]]></numero>
 <fecha>01/04/2025</fecha>
-<cod_cliente>12715</cod_cliente>
+<cod_cliente>19897</cod_cliente>
 <tipo_cli>1</tipo_cli>
 <num_referencia><![CDATA[17282]]></num_referencia>
 <datos_inmueble><![CDATA[17282]]></datos_inmueble>
@@ -244,7 +244,7 @@
 <Factura>
 <numero><![CDATA[016]]></numero>
 <fecha>07/04/2025</fecha>
-<cod_cliente>18398</cod_cliente>
+<cod_cliente>6227</cod_cliente>
 <tipo_cli>1</tipo_cli>
 <num_referencia><![CDATA[6404]]></num_referencia>
 <datos_inmueble><![CDATA[6404]]></datos_inmueble>
@@ -1412,6 +1412,201 @@
 
 </Factura>
 <Factura>
+<numero><![CDATA[043]]></numero>
+<fecha>02/09/2025</fecha>
+<cod_cliente>1813</cod_cliente>
+<tipo_cli>1</tipo_cli>
+<num_referencia><![CDATA[]]></num_referencia>
+<datos_inmueble><![CDATA[]]></datos_inmueble>
+<vendedor><![CDATA[Teresa Roa]]></vendedor>
+<tot_base> 1600</tot_base>
+<tot_iva> 336</tot_iva>
+<porc_iva> 21</porc_iva>
+<tot_factura> 1936</tot_factura>
+<abonado> 0</abonado>
+<irpf> 0</irpf>
+<porc_irpf> 0</porc_irpf>
+<forma_pago><![CDATA[Transferencia]]></forma_pago>
+<observacion><![CDATA[]]></observacion>
+<descuento><![CDATA[]]></descuento>
+<emitir_cada>0</emitir_cada>
+<fec_hasta></fec_hasta>
+<detalleFactura>
+
+<detalle>
+
+<concepto><![CDATA[Intermediación Inmobiliaria]]></concepto>
+
+<detalle><![CDATA[Alquiler]]></detalle>
+
+<cantidad> 1</cantidad>
+
+<precio> 1600</precio>
+
+<descuento> 0</descuento>
+
+</detalle>
+
+</detalleFactura>
+
+</Factura>
+<Factura>
+<numero><![CDATA[044]]></numero>
+<fecha>02/09/2025</fecha>
+<cod_cliente>17705</cod_cliente>
+<tipo_cli>1</tipo_cli>
+<num_referencia><![CDATA[]]></num_referencia>
+<datos_inmueble><![CDATA[]]></datos_inmueble>
+<vendedor><![CDATA[Patricia Gago Caballero]]></vendedor>
+<tot_base> 2800</tot_base>
+<tot_iva> 588</tot_iva>
+<porc_iva> 21</porc_iva>
+<tot_factura> 3388</tot_factura>
+<abonado> 0</abonado>
+<irpf> 0</irpf>
+<porc_irpf> 0</porc_irpf>
+<forma_pago><![CDATA[Transferencia]]></forma_pago>
+<observacion><![CDATA[]]></observacion>
+<descuento><![CDATA[]]></descuento>
+<emitir_cada>0</emitir_cada>
+<fec_hasta></fec_hasta>
+<detalleFactura>
+
+<detalle>
+
+<concepto><![CDATA[Intermediación Inmobiliaria]]></concepto>
+
+<detalle><![CDATA[Alquiler]]></detalle>
+
+<cantidad> 1</cantidad>
+
+<precio> 2800</precio>
+
+<descuento> 0</descuento>
+
+</detalle>
+
+</detalleFactura>
+
+</Factura>
+<Factura>
+<numero><![CDATA[045]]></numero>
+<fecha>02/09/2025</fecha>
+<cod_cliente>14789</cod_cliente>
+<tipo_cli>1</tipo_cli>
+<num_referencia><![CDATA[]]></num_referencia>
+<datos_inmueble><![CDATA[]]></datos_inmueble>
+<vendedor><![CDATA[Bibiana Perez Barbadillo Lopez de Carrizosa]]></vendedor>
+<tot_base> 1700</tot_base>
+<tot_iva> 357</tot_iva>
+<porc_iva> 21</porc_iva>
+<tot_factura> 2057</tot_factura>
+<abonado> 0</abonado>
+<irpf> 0</irpf>
+<porc_irpf> 0</porc_irpf>
+<forma_pago><![CDATA[Transferencia]]></forma_pago>
+<observacion><![CDATA[]]></observacion>
+<descuento><![CDATA[]]></descuento>
+<emitir_cada>0</emitir_cada>
+<fec_hasta></fec_hasta>
+<detalleFactura>
+
+<detalle>
+
+<concepto><![CDATA[Intermediación Inmobiliaria]]></concepto>
+
+<detalle><![CDATA[Alquiler]]></detalle>
+
+<cantidad> 1</cantidad>
+
+<precio> 1700</precio>
+
+<descuento> 0</descuento>
+
+</detalle>
+
+</detalleFactura>
+
+</Factura>
+<Factura>
+<numero><![CDATA[046]]></numero>
+<fecha>02/09/2025</fecha>
+<cod_cliente>4516</cod_cliente>
+<tipo_cli>1</tipo_cli>
+<num_referencia><![CDATA[]]></num_referencia>
+<datos_inmueble><![CDATA[]]></datos_inmueble>
+<vendedor><![CDATA[Bibiana Perez Barbadillo Lopez de Carrizosa]]></vendedor>
+<tot_base> 950</tot_base>
+<tot_iva> 199.5</tot_iva>
+<porc_iva> 21</porc_iva>
+<tot_factura> 1149.5</tot_factura>
+<abonado> 0</abonado>
+<irpf> 0</irpf>
+<porc_irpf> 0</porc_irpf>
+<forma_pago><![CDATA[Transferencia]]></forma_pago>
+<observacion><![CDATA[]]></observacion>
+<descuento><![CDATA[]]></descuento>
+<emitir_cada>0</emitir_cada>
+<fec_hasta></fec_hasta>
+<detalleFactura>
+
+<detalle>
+
+<concepto><![CDATA[Intermediación Inmobiliaria]]></concepto>
+
+<detalle><![CDATA[Alquiler]]></detalle>
+
+<cantidad> 1</cantidad>
+
+<precio> 950</precio>
+
+<descuento> 0</descuento>
+
+</detalle>
+
+</detalleFactura>
+
+</Factura>
+<Factura>
+<numero><![CDATA[047]]></numero>
+<fecha>12/09/2025</fecha>
+<cod_cliente>1813</cod_cliente>
+<tipo_cli>1</tipo_cli>
+<num_referencia><![CDATA[]]></num_referencia>
+<datos_inmueble><![CDATA[]]></datos_inmueble>
+<vendedor><![CDATA[Teresa Roa]]></vendedor>
+<tot_base>-1600</tot_base>
+<tot_iva>-336</tot_iva>
+<porc_iva> 21</porc_iva>
+<tot_factura>-1936</tot_factura>
+<abonado> 0</abonado>
+<irpf> 0</irpf>
+<porc_irpf> 0</porc_irpf>
+<forma_pago><![CDATA[Transferencia]]></forma_pago>
+<observacion><![CDATA[]]></observacion>
+<descuento><![CDATA[]]></descuento>
+<emitir_cada>0</emitir_cada>
+<fec_hasta></fec_hasta>
+<detalleFactura>
+
+<detalle>
+
+<concepto><![CDATA[Intermediación Inmobiliaria]]></concepto>
+
+<detalle><![CDATA[Alquiler]]></detalle>
+
+<cantidad> 1</cantidad>
+
+<precio>-1600</precio>
+
+<descuento> 0</descuento>
+
+</detalle>
+
+</detalleFactura>
+
+</Factura>
+<Factura>
 <numero><![CDATA[05]]></numero>
 <fecha>11/02/2025</fecha>
 <cod_cliente>19855</cod_cliente>
@@ -2183,45 +2378,6 @@
 <cantidad> 1</cantidad>
 
 <precio> 9000</precio>
-
-<descuento> 0</descuento>
-
-</detalle>
-
-</detalleFactura>
-
-</Factura>
-<Factura>
-<numero><![CDATA[2024000027]]></numero>
-<fecha>24/04/2025</fecha>
-<cod_cliente>19873</cod_cliente>
-<tipo_cli>1</tipo_cli>
-<num_referencia><![CDATA[2374]]></num_referencia>
-<datos_inmueble><![CDATA[2374]]></datos_inmueble>
-<vendedor><![CDATA[Pepa Viel Cortines]]></vendedor>
-<tot_base> 18625</tot_base>
-<tot_iva> 3911.25</tot_iva>
-<porc_iva> 21</porc_iva>
-<tot_factura> 22536.25</tot_factura>
-<abonado> 0</abonado>
-<irpf> 0</irpf>
-<porc_irpf> 0</porc_irpf>
-<forma_pago><![CDATA[]]></forma_pago>
-<observacion><![CDATA[]]></observacion>
-<descuento><![CDATA[]]></descuento>
-<emitir_cada>0</emitir_cada>
-<fec_hasta></fec_hasta>
-<detalleFactura>
-
-<detalle>
-
-<concepto><![CDATA[Intermediación Inmobiliaria]]></concepto>
-
-<detalle><![CDATA[Vendido]]></detalle>
-
-<cantidad> 1</cantidad>
-
-<precio> 18625</precio>
 
 <descuento> 0</descuento>
 
